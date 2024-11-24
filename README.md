@@ -1,2 +1,4 @@
 # warm-hand-warmer
-hand-warmer to endure cold winter of korea
+This is a flutter project
+building
+hand-warmer app to endure cold winter of korea
